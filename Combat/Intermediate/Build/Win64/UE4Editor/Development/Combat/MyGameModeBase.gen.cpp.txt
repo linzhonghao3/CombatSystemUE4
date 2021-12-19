@@ -1,0 +1,9 @@
+F:\UE4\Combat\Intermediate\Build\Win64\UE4Editor\Development\Combat\Definitions.Combat.h
+E:\Epic\UE4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\Epic\UE4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\UE4\Combat\Source\Combat/MyGameModeBase.h
+E:\Epic\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\Epic\UE4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\Epic\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\Epic\UE4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+F:\UE4\Combat\Intermediate\Build\Win64\UE4Editor\Inc\Combat\MyGameModeBase.generated.h

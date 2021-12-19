@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\UE4\\Combat\\Source\\Combat\\Combat.Build.cs",
+		"F:\\UE4\\Combat\\Source\\Combat.Target.cs",
+		"F:\\UE4\\Combat\\Source\\CombatEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.1"
+}

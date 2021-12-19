@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Combat",
+			"Path": "F:\\UE4\\Combat\\Source\\Combat.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CombatEditor",
+			"Path": "F:\\UE4\\Combat\\Source\\CombatEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
